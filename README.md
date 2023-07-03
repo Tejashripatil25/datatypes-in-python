@@ -22,30 +22,30 @@ https://www.w3schools.com/python/python_datatypes.asp
 
 ### Example:
 
-x= str("Hello World")            	            str	
+x= str("Hello World")            	            :- str	
 
-x = int(20)	                                    int	
+x = int(20)	                                    :- int	
 
-x = float(20.5)	                                float	
+x = float(20.5)	                                :- float	
 
-x = complex(1j)	                                complex	
+x = complex(1j)	                                :- complex	
 
-x = list(("apple", "banana", "cherry"))	        list	
+x = list(("apple", "banana", "cherry"))	        :- list	
 
-x = tuple(("apple", "banana", "cherry"))	      tuple	
+x = tuple(("apple", "banana", "cherry"))	      :- tuple	
 
-x = range(6)	                                  range	
+x = range(6)	                                  :- range	
 
-x = dict(name="John", age=36)	                  dict	
+x = dict(name="John", age=36)	                  :- dict	
 
-x = set(("apple", "banana", "cherry"))	        set	
+x = set(("apple", "banana", "cherry"))	        :- set	
 
-x = frozenset(("apple", "banana", "cherry"))    frozenset	
+x = frozenset(("apple", "banana", "cherry"))    :- frozenset	
 
-x = bool(5)                                    	bool	
+x = bool(5)                                    	:- bool	
 
-x = bytes(5)	                                  bytes	
+x = bytes(5)	                                  :- bytes	
 
-x = bytearray(5)	                              bytearray	
+x = bytearray(5)	                              :- bytearray	
 
-x = memoryview(bytes(5))	                      memoryview
+x = memoryview(bytes(5))	                      :- memoryview
